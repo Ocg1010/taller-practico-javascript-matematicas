@@ -16,8 +16,8 @@ function calcularCuadrado(lado) {
     area: lado * lado,
   };
 }
-
 console.groupEnd('Cuadrado') 
+
 
 console.group('Triangulo')
 
